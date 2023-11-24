@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flut![Uploading simulator_screenshot_8CEFA807-3C2A-4296-8132-AF6C97E155CB.png…]()
+ter application.
 
 A few resources to get you started if this is your first Flutter project:
 
